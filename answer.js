@@ -12,7 +12,7 @@
   <button onclick="adjustSelfie()">調整大頭照</button>
   <button onclick="changePhoto()">換圖生活照</button>
   
-  <a href="answer.html" target="_blank">查看原始 HTML 檔</a>
+  <a href="index.html" target="_blank">查看原始 HTML 檔</a>
   <a href="answer.js" target="_blank">查看原始 JS 檔</a>
 
   <script src="script.js"></script>
